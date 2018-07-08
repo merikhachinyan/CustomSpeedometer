@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Speedometer">
+        <attr name="minSpeed" format="integer"/>
+        <attr name="maxSpeed" format="integer"/>
+        <attr name="yellowColor" format="color"/>
+        <attr name="blackColor" format="color"/>
+        <attr name="whiteColor" format="color"/>
+    </declare-styleable>
+</resources>
